@@ -24,7 +24,6 @@
 ## - 📫 How to reach me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/adiel-melo-073009273/)
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=8a3ab9)](https://www.instagram.com/y2k.adiel/)
 [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=7289DA)](https://discord.com/users/852597549171867648)
 
 ## - 📊 Some Stats:
