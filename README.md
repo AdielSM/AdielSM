@@ -12,7 +12,7 @@
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
 
-##   🚀  Some Tools and Technologies that I use:
+##  - 🚀  Some Tools and Technologies that I use:
 
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
@@ -25,6 +25,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/adiel-melo-073009273/)
 [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=7289DA)](https://discord.com/users/852597549171867648)
+[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:adielsobral76@gmail.com)
 
 ## - 📊 Some Stats:
 
