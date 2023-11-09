@@ -19,7 +19,6 @@
 ![VSCode](https://img.shields.io/badge/VSCode-000?style=for-the-badge&logo=visualstudiocode)
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows)
-!
 
 ## - 📫 How to reach me:
 
