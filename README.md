@@ -53,6 +53,6 @@
 ## You are welcome to take a look at my repositories! 😄
 
 <p align="center">
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXUxMjMxdmdsYXJnano1ZzBnZmN1aXY5ODQwZjgzcXRzdjZjcnUyMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kjETcOXKdbYLS/giphy.gif" alt="GIF" style="min-width: 100%;">
+    <img src="https://cdna.artstation.com/p/assets/images/images/025/249/366/original/lennart-butz-ukiyo2.gif?1585180234" alt="GIF" style="min-width: 100%;">
 </p>
 
