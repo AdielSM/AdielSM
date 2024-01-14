@@ -44,7 +44,7 @@
 
 ![Adiel's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdielSM&theme=dark&show_icons=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdielSM&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-phi-ten.vercel.app?user=AdielSM&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdielSM&layout=donut-vertical&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
