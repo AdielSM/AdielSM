@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E0FFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Adiel+Melo+👋;I'm+Graduating+in+Web+Systems+Development;Console.out.println("Be+Welcome!+:%29"))](https://git.io/typing-svg)
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AdielSM&bg_color=FFFFF&color=FFFFFF&line=84A0C6&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[!Adiel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AdielSM&bg_color=FFFFF&color=FFFFFF&line=84A0C6&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <p align="center">
@@ -11,7 +11,7 @@
 </p>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AdielSM&show_icons=true&count_private=true&hide_border=true&title_color=84A0C6&icon_color=84A0C6&text_color=c9d1d9&bg_color=0d1117" alt="Adiel github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats-f2iv-adielsms-projects.vercel.app/api?username=AdielSM&show_icons=true&count_private=true&hide_border=true&title_color=84A0C6&icon_color=84A0C6&text_color=c9d1d9&bg_color=0d1117" alt="Adiel github stats" /> 
   <img width="49%" height="174px" src="https://github-readme-streak-stats-phi-ten.vercel.app?user=AdielSM&theme=iceberg&background=0d1117&hide_border=true" alt="Adiel github streak">
   <img width="500px" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdielSM&layout=donut&size_weight=0.5&count_weight=0.5&title_color=84A0C6&bg_color=0d1117&hide_border=true&text_color=c9d1d9">
 </div>
