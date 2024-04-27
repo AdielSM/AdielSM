@@ -6,9 +6,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AdielSM&bg_color=FFFFF&color=FFFFFF&line=84A0C6&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AdielSM&theme=nord&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+
 
 <div align="center">  
 <img width="49%" height="195px" src="https://github-readme-stats-f2iv-adielsms-projects.vercel.app/api?username=AdielSM&show_icons=true&count_private=true&hide_border=true&title_color=84A0C6&icon_color=84A0C6&text_color=c9d1d9&bg_color=0d1117" alt="Adiel github stats" />
@@ -41,4 +39,13 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdielSM/AdielSM/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdielSM/AdielSM/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AdielSM/AdielSM/output/github-contribution-grid-snake.svg">
+</picture>
+
+
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DCDCDC&height=130&section=footer"/>
+<div align="right">Made with 🤍 by <a href="https://github.com/AdielSM">AdielSM</a>.</div>
